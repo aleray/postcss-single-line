@@ -1,6 +1,6 @@
 # PostCSS Single Line
 
-[PostCSS](https://github.com/postcss/postcss) plugin formats single-property
+A [PostCSS](https://github.com/postcss/postcss) plugin that formats single-property
 rules on oneline.
 
 ## Example
