@@ -1,0 +1,22 @@
+{
+  "name": "postcss-single-line",
+  "version": "1.0.0",
+  "description": "\"A PostCSS plugin that formats single-property rules on one line.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aleray/postcss-single-line.git"
+  },
+  "keywords": [
+    "postcss"
+  ],
+  "author": "Alexandre Leray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aleray/postcss-single-line/issues"
+  },
+  "homepage": "https://github.com/aleray/postcss-single-line#readme"
+}
