@@ -11,7 +11,8 @@
     "url": "git+https://github.com/aleray/postcss-single-line.git"
   },
   "keywords": [
-    "postcss"
+    "postcss",
+    "postcss-plugin"
   ],
   "author": "Alexandre Leray",
   "license": "MIT",
